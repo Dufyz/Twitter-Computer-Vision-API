@@ -1,0 +1,3 @@
+tweepy==4.4.0
+pandas @ file:///C:/ci/pandas_1618365634936/work
+pandas-gbq==0.16.0
